@@ -1,0 +1,7 @@
+{
+  "name": "HomeBuddy",
+  "description": "Quick booking service for shower and plumbing repairs.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
